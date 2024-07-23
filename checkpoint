@@ -1,0 +1,2 @@
+model_checkpoint_path: "New_mobilenetv2.ckpt"
+all_model_checkpoint_paths: "New_mobilenetv2.ckpt"
